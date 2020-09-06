@@ -30,7 +30,7 @@
             <p>A jeśli ktoś mi zarzuci,<br>
                 że świat widzę w krzywym lusterku,<br>
                 to ja powtórzę: on wróci...<br>
-                Choć może w innym futerku...<br></a> 
+                Choć może w innym futerku...<br><a/p>
          </div>
          <div class="footer">
             /autor F.J. Klimek/
