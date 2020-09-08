@@ -1,0 +1,26 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html>\r <html lang=\"en\">\r     <head>\r         <meta charset=\"UTF-8\">\r         <title>learning-git-2</title>\r         <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\r     </head>\r     <body>\r         <div class=\"header\">\r             ZA TĘCZOWYM MOSTEM...\r          </div>\r          <div class=\"letter\">\r             <p>Zapłacz, kiedy odejdzie,<br>\r                 jeśli Cię serce zaboli,<br>\r                 że to jeszcze za wcześnie<br>\r                 choć może i z Bożej woli.<br></p>\r             <p>Zapłacz, bo dla płaczących<br>\r                 Niebo bywa łaskawsze,<br>\r                 lecz niech uwierzą wierzący,<br>\r                 że on nie odszedł na zawsze.<br></p>\r             <p>Zapłacz, kiedy odejdzie,<br>\r                 uroń łzę jedną i drugą,<br>\r                 i - przestań nim słońce wzejdzie,<br>\r                 bo on nie odszedł na długo.</a>\r             <p>Potem rozglądnij się w koło,<br>\r                 ale nie w górę; patrz nisko<br>\r                 i - może wystarczy zawołać,<br>\r                 on może być już tu blisko...<br></p>\r             <p>A jeśli ktoś mi zarzuci,<br>\r                 że świat widzę w krzywym lusterku,<br>\r                 to ja powtórzę: on wróci...<br>\r                 Choć może w innym futerku...<br></a> \r          </div>\r          <div class=\"footer\">\r             /autor F.J. Klimek/\r         </div>\r     </body>\r </html>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleopax/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleopax/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/cleopax/learning-git-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  },
+  "dependencies": {
+    "html-validate": "^3.2.0"
+  }
+}
